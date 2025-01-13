@@ -3,9 +3,10 @@
 # Welcome to my Digital Portfolio 
 
 ## About Me 
-This is a paragraph about me. It explains my major at UCF, my career goals, and skills that I have. Even if I haven't worked anywhere that I would consider *in* the field that I'm majoring in, all work experience demonstrates that I can show up on time, communicate with supervisors, work with co-workers, etc. If you work in hospitality, you already work in a fast-paced environment! Retail? You've got great communication and customer service skills. Think about the things you do at work, and how those skills can be used in your dream job!
+Hello, my name is Benjamin Graydon. I began attending the University of Central Florida (UCF) in Fall 2024 after studying at Gulf Coast State College, where I worked toward my Associate of Arts degree. I am currently pursuing a major in Information Technology with a minor in Secure Computing and Networking. My ultimate career goal is to work in cybersecurity, though I understand that breaking into this field often involves starting in related roles, so I am focused on gaining the skills and experience necessary to achieve that goal.
 
-*Note: this can be written in first person (I, me) or in third person (he/she/they). Third person is especially helpful if you use nonbinary pronouns or have a name that people often misgender.*
+In October 2020, I joined the United States Marine Corps Reserves, motivated by a desire to serve my country while pursuing my education. I have achieved the rank of Non-Commissioned Officer and received training in all-source intelligence analysis as well as other specialized skills.
 
-[Start Here instructional page for copying this website](starthere.md)
-<center><img src="https://ekjphd.com/wp-content/uploads/2024/12/ilrn_avatarday-3-e1734120202850.jpg"></center>
+
+  AI statment
+  Some text and elements on this website, including the About Me page, were refined using AI tools to enhance clarity and quality
