@@ -1,5 +1,16 @@
 [Home](index.md) | [Manual Assessment Memo](manual_assessment_memo.md) | [Chatbot](chatbot.md) | [Procedure Video](procedure_video.md) | [Manual](manual.md) | [Reflective Blogs](reflective_blogs.md) 
 
+
+
+
+This page hasnt been worked on yet, the information on this page is apart of the provided example and it here to show how the code works.
+
+
+
+
+
+
+
 # Table of Contents 
 1. [Wayback Analysis](#wayback-analysis)
 2. [Quick Start Guide](#quick-start-guide)
