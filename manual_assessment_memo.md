@@ -2,6 +2,6 @@
 
 # Manual Assessment Memo
 
-
+This page hasnt been worked on yet, the information on this page is apart of the provided example
 
 
