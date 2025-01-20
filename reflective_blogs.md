@@ -18,7 +18,7 @@ This page hasnt been worked on yet, the information on this page is apart of the
    
 # Wayback Analysis
 
-## Assignment Rationale 
+I used the Wayback Machine to see what YouTube looked like 18 years ago in 2007. Youtube is an entertainment app know to house a video on anything a user can imagine, and from my experience it has upheld that image. It is clear as soon as you see the 2007 homepage that its very dated, sharp boxes, poorly placed ads, and no personalized page that it opens up to, being the most obvious parts that stand out. If I opened up the website today I would definitely thing this webpage is lacking development, and I would exit the page thinking it has no use. This is interesting because I know back in 2007 this website was groundbreaking and ahead of its time, it just goes to show that not everything ages like a fine wine.
 
 
 ---
