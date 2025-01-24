@@ -8,5 +8,5 @@ Hello, my name is Benjamin Graydon. I began attending the University of Central 
 In October 2020, I joined the United States Marine Corps Reserves, motivated by a desire to serve my country while pursuing my education. I have achieved the rank of Non-Commissioned Officer and received training in all-source intelligence analysis as well as other specialized skills.
 
 
-  AI statment
+  # AI statment
   Some text and elements on this website, including the About Me page, were refined using AI tools to enhance clarity and quality
