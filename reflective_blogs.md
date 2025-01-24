@@ -3,8 +3,6 @@
 
 
 
-This page hasnt been worked on yet, the information on this page is apart of the provided example and it here to show how the code works.
-
 
 
 
