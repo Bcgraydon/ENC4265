@@ -17,11 +17,22 @@ This page hasnt been worked on yet, the information on this page is apart of the
 3. [Reflective Blog 3](#reflective-blog-3)
    
 # Wayback Analysis
+## Introduction
+The first webpage was created on August 6th 1991, it was just a wall of text and links explain what the World Wide Web project was. You can still visit the page today, it’s a stark reminder of how far web development has gone in the past three decades since the first one was made. Every successful website developed in todays age it made with the user in mind, everything from color of the background, to size of the text is calculated to make the experience as user friendly as possible.
 
-I used the Wayback Machine to see what YouTube looked like 18 years ago in 2007. Youtube is an entertainment app know to house a video on anything a user can imagine, and from my experience it has upheld that image. It is clear as soon as you see the 2007 homepage that its very dated, sharp boxes, poorly placed ads, and no personalized page that it opens up to, being the most obvious parts that stand out. If I opened up the website today I would definitely thing this webpage is lacking development, and I would exit the page thinking it has no use. This is interesting because I know back in 2007 this website was groundbreaking and ahead of its time, it just goes to show that not everything ages like a fine wine.
+## Analysis
+The Wayback Machine is a website that stores snapshots of a website throughout its development. I used this machine to see what YouTube.com looked like in 2007, only two years after its creation. YouTube is a free video sharing platform, used by people to find a video on just about any topic. I use it daily for entertainment, but that’s not its only use its my go to website for technical repair tutorials, software setups, and extra help on course work. It is clear that YouTube today and YouTube of 2007 are similar, but it is obvious that it is extremely dated in today’s standards, here are the key differences I noticed.
+### Layout
+-All the information displayed from the videos, to the search bar are blocky boxes with sharp corners, coming from the modern website it is clear that the newer way of displaying them with rounded corners and soft edges is more alleging to the eye.
 
+-Ads on the dated site are placed in poor locations, distracting the user from the videos, and they ruin the experience, compared to YouTube now where the Ads are clearly placed in locations as to not distract while also allowing for effective marketing.
 
----
+### Navigation
+-It is clear the older site relies a lot on text links, with limited uses of menus. The modern site has common since menus that makes it predecessor feel dated.
+
+## Conclusion
+Its interesting to think that when the first website was created you could have gave the URL for the website to just about anyone in the world and they wouldn’t know what to do with it, and how you can give a URL to just about any kid in elementary school and they could navigate to the site easily. Humans ability to use the internet has evolved and so has our ability to design a visually appealing, and effective website. This analysis of YouTube is just one example a modern website compared to its younger self, it clearly show the improvement in layout, and Navigation. It will be interesting to see in the next couple of decades if YouTube is still there, the improvements made upon the version we see now, maybe it will make us think how did we think this looks good.
+
 # Quick Start Guide
 
 ## Assignment Rationale 
