@@ -80,7 +80,8 @@ maximize its connection to the end devices, like if you have an office where mos
 your end devices are you can place the router in there to have the best connection
 centered there.
 
-
+![router palcement](https://github.com/user-attachments/assets/1627abf9-e3be-4c11-bdf2-d7af8cc9fd32)\
+  This image shows a example of where the best router placment would be.
 
 ### Step 3- Configure Router.
 
@@ -99,7 +100,8 @@ your network.
 - Choose Wi-Fi Security: Select WPA3, WPA2, or WPA3/WPA2 Mixed as your Wi-Fi
 security protocol.
 
-
+![router configuration](https://github.com/user-attachments/assets/3482d347-4283-49ba-bd35-c0e4a000a101)\
+This image show the configuration menu for a router 
 
 ### Step 5- Connect end devices.
 
@@ -112,19 +114,14 @@ entering the password.
 
 - On all your end devices, check to make sure you can access the internet.
 
+![IPhone wifi](https://github.com/user-attachments/assets/fa47f1bc-d277-4f14-acc3-dee7801f4be5)\
+This image show what a iphone seccessfully conneceted to the WiFi lookd like.
 
 
 
 
+## AI statment
+#### This assignment was created without the use of AI, this is a work of my own.
 
-This assignment is a little more structured than others in our course, so please follow these steps:
-
-## What is Due
-On your portfolio, post the following:
--The name of the tool (with the link if you have it)
--Your prompts
--The best output 
--Your reflection 
----
 # Reflective Blog 3
 TBD
