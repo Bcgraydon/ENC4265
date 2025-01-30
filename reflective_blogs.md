@@ -35,6 +35,17 @@ Its interesting to think that when the first website was created you could have 
 
 ## Introduction
 In the modern age there are a couple of things in every house hold that people dread setting up, one of those being a network router and modem. Homes didn’t start getting Wi-Fi until the early 2000’s, but they were still bulky, hard to set up, and little was known on how to set one up to have it be most effective. In this guide I will be showing you how to set up a home network and router, to have a effective home network. 
+## Glossary
+- IP Address (Internet Protocol Address)-A unique numerical label assigned to devices
+on a network.
+- SSID (Service Set Identifier)- A name used to identify a wireless network.
+- ISP- Internet Service Provider.
+- LAN (Local Area Network): A network of connected devices within your home,
+typically through Wi-Fi or Ethernet cables.
+- DNS (Domain Name System): A system that translates human-readable domain
+names (like www.example.com) into IP addresses used by computers to locate each
+other on the internet.
+
 ## Items needed.
 
 - Router
