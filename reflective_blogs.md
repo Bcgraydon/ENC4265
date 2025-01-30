@@ -33,19 +33,80 @@ Its interesting to think that when the first website was created you could have 
 
 # Quick Start Guide
 
-## Assignment Rationale 
-This assignment will let you experiment with a generative AI tool of your choice, and you will strengthen your critical thinking skills as you evaluate its strengths and weaknesses.
+## Introduction
+In the modern age there are a couple of things in every house hold that people dread setting up, one of those being a network router and modem. Homes didn’t start getting Wi-Fi until the early 2000’s, but they were still bulky, hard to set up, and little was known on how to set one up to have it be most effective. In this guide I will be showing you how to set up a home network and router, to have a effective home network. 
+## Items needed.
 
-## Where to Start
-Think of a product that you already know how to use. It can be a bluetooth headset, an app, a video game, a sewing machine, or anything that requires a little bit of setup to use.
+- Router
+- Modem
+- Ethernet cables
+- End devices (Computer, Phones, Laptop)
+- Internet Service Provider-Power strip (optional)
+- Screwdriver (if needed)
+## Quick start
+1. Gather Supplies.
+2. Connect Hardware.
+3. Configure Router.
+4. Configure Wi-Fi.
+5. Connect end devices.
+6. Test the Network.
+## Steps
 
-## Assignment Steps
+### Step 1- Gather the Supplies.
+
+- You can buy a router, and modem combo, or buy your own router and have your ISP
+provide a modem to rent or buy.
+- All other supplies can be bought at an Electonic store like Best Buy.
+
+
+
+### Step 2- Connect Hardware.
+
+- Plug your modem into the wall, keep in mind the modem needs to reach the router
+via the ethernet cable you purchased.
+- Keep in mind you want your router to be placed in your home in such a way as to
+maximize its connection to the end devices, like if you have an office where most of
+your end devices are you can place the router in there to have the best connection
+centered there.
+
+
+
+### Step 3- Configure Router.
+
+- Access router: connect to the router via one of its ethernet cable with a computer or
+connect to the Wi-Fi via the default SSID located on the router or in the manual.
+- Open a web browser and enter the router's default IP address (usually something like
+192.168.0.1 or 192.168.1.1).
+- Login into the router by entering the default credentials usually found in the manual.
+
+
+
+### Step 4- Configure Wi-Fi.
+
+- Change your Wi-Fi SSID to be unique to you, also set a strong password to secure
+your network.
+- Choose Wi-Fi Security: Select WPA3, WPA2, or WPA3/WPA2 Mixed as your Wi-Fi
+security protocol.
+
+
+
+### Step 5- Connect end devices.
+
+- Connect Wi-Fi enabled devices by selecting the SSID in the network settings then
+entering the password.
+- If you want wired internet connect end devices to the router via ethernet cable.
+
+
+### Step 6- Test your network.
+
+- On all your end devices, check to make sure you can access the internet.
+
+
+
+
+
+
 This assignment is a little more structured than others in our course, so please follow these steps:
-1. Open Copilot or any other text-based generative AI tool you prefer (don't pay for it unless you happen to already have a subscription)
-2. Write a prompt that asks it to generate a quick-start guide for your product of choice. (copy and paste this somewhere - it is part of what you need to turn in)
-3. Evaluate the output. Try to follow the steps yourself, or at least imagine following them.
-4. Prompt it again (and again) if needed (again saving your prompts somewhere).
-5. Reflect on the process and write a short (200 words) reflection on the tool's strengths, weaknesses, and anything that you learned (or anything that surprised you).
 
 ## What is Due
 On your portfolio, post the following:
