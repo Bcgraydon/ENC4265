@@ -124,4 +124,19 @@ This image show what a iphone seccessfully conneceted to the WiFi lookd like.
 #### This assignment was created without the use of AI, this is a work of my own.
 
 # Reflective Blog 3
-TBD
+Prompt Q: Upload your resume (without your address, phone number, and email) to a generative AI tool of your choice (I suggest trying one in Boodlebox). Ask it what position you are best suited for, then ask it to revise your resume to make it more appealing to a future employer in your ideal field. Post: A summary of the suggested changes and a reflection. What did it do? What did you learn? 
+
+## Introdution 
+I asked ChatGPT’s resume AI what position it thought was most suited for based off my resume, and it returned what I wanted it to. I set up my resume to be tailored to a IT/Cyber security role because that the industry I’m wanting to get into, so I’m happy it that the AI was able to determine that.
+
+## Changes
+ I then asked the AI to revise my resume to make me more appealing to employers looking for people for those roles, here’s the edits they said to make
+
+ - Use stronger verbiage- The AI told me to use vocabulary that shows my experience more impactful
+ - Quantification- The AI told me to add numbers to accomplishments where possible.
+ - Keyword optimization- The AI told me to use more words aligned with  IT and Cybersecurity job descriptions
+ - Enhance readability- Improve formatting for quick scanning by recruiters
+
+## Overview
+I have used AI in the past to revise my resume in the past, it is a great tool to help someone with no experience in the industry to advance. In this exercise I got exactly what I thought I was going to get out of it, improvement. There is always something one can improve on, when it comes to resumes there is no perfect display of ones accomplishments and abilities that can be put on one page, but getting close is really the goal. I added the recommended changes to my resume and I’m continuing to submit it so we will see how it ends up.
+
