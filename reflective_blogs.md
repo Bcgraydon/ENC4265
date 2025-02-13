@@ -140,3 +140,4 @@ I asked ChatGPT’s resume AI what position it thought was most suited for based
 ## Overview
 I have used AI in the past to revise my resume in the past, it is a great tool to help someone with no experience in the industry to advance. In this exercise I got exactly what I thought I was going to get out of it, improvement. There is always something one can improve on, when it comes to resumes there is no perfect display of ones accomplishments and abilities that can be put on one page, but getting close is really the goal. I added the recommended changes to my resume and I’m continuing to submit it so we will see how it ends up.
 
+AI statment: AI was used in this assignment, but wasnt used in the making of this assignment
