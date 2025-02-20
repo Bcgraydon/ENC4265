@@ -159,3 +159,6 @@ Now some of the negatives for the repair tutorial. The photos for the steps coul
 
 ## Overview
 Tutorials are a tool for the knowledgeable to learn something practical. This tutorial is not any different, it accomplished its exact goal. By the end of reading this you will be able to fix your controller. It explains it well but there are areas that need to be worked on.
+
+## AI statment
+This assignment was created without the use of AI, this is a work of my own.
