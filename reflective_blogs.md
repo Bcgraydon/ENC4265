@@ -13,6 +13,7 @@
 1. [Wayback Analysis](#wayback-analysis)
 2. [Quick Start Guide](#quick-start-guide)
 3. [Reflective Blog 3](#reflective-blog-3)
+4. [Reflective Blog 4](#reflective-blog-4)
    
 # Wayback Analysis
 ## Introduction
@@ -150,4 +151,11 @@ Prompt D: Explore an online tutorial, manual, or reference guide/FAQ page. Give 
 In the modern age everything we own gets more complicated every day. This makes completing repairs youself with no help nearly imposible, luckly there are copious amounts of tutorials online to help you along the way. I routinely repair my own stuff, just because it fascinates me, and I have a desire to know how the stuff around me works. I have had to use many online tutorials, I have seen good ones and bad ones.
 
 ## Review of the tutorial
-The tutorial I’m reviewing in this assignment is Oculus Quest 2 Controller Disassembly - iFixit Repair Guide.
+The tutorial I’m reviewing in this assignment is [Oculus Quest 2 Controller Disassembly - iFixit Repair Guide.](https://www.ifixit.com/Guide/Oculus+Quest+2+Controller+Disassembly/147947).It goes over the steps on how to replace the joystick of the Quest 2 controllers, I recently made this repair so I’m going into this review with the mindset of what would have helped or hurt if I had used this tutorial instead. 
+### Positves 
+To start off I will go over some of the positives I found. There are a lot of pictures, this is important with a highly technical repair like this one. The steps are clearly laid out, and the grammar used for the steps is professional and appropriate for the setting.
+### Negatives
+Now some of the negatives for the repair tutorial. The photos for the steps could be more professionally taken, there are a couple that are blurry making it hard to tell what one should be looking at. Another negative about the instructions is that it did not cover the reassembly. When I did this myself there were some key factors to consider, and some helpful tips when reassembling the controllers that are different from disassembling.
+
+## Overview
+Tutorials are a tool for the knowledgeable to learn something practical. This tutorial is not any different, it accomplished its exact goal. By the end of reading this you will be able to fix your controller. It explains it well but there are areas that need to be worked on.
