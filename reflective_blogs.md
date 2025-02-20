@@ -142,3 +142,12 @@ I have used AI in the past to revise my resume in the past, it is a great tool t
 
 ### AI statment 
 AI was used as a part in this assigment, but wasnt used to create or edit this assigment.
+
+# Reflective Blog 4
+Prompt D: Explore an online tutorial, manual, or reference guide/FAQ page. Give it an honest but professional assessment. Describe in your post the aspects of the page(s) that are effective, and explain why. Describe the aspects of the page(s) that are ineffective, and explain why. Keep a professional tone, as though you expect the author(s) of the page(s) to read your post. 
+
+## Introduction 
+In the modern age everything we own gets more complicated every day. This makes completing repairs youself with no help nearly imposible, luckly there are copious amounts of tutorials online to help you along the way. I routinely repair my own stuff, just because it fascinates me, and I have a desire to know how the stuff around me works. I have had to use many online tutorials, I have seen good ones and bad ones.
+
+## Review of the tutorial
+The tutorial I’m reviewing in this assignment is Oculus Quest 2 Controller Disassembly - iFixit Repair Guide.
