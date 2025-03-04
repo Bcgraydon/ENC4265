@@ -16,7 +16,7 @@ This chatbot has a friendly, informative, and easy-to-understand personality. It
 - Platform: BettleBox  
 -  Hosted On: GitHub Pages (or another hosting method)  
 -  Features:  
-Answers common cybersecurity questions
-Provides best practices for staying safe online
-Helps users recognize phishing scams and password risks
+Answers common cybersecurity questions  
+Provides best practices for staying safe online  
+Helps users recognize phishing scams and password risks  
 
