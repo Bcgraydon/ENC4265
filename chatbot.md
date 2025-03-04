@@ -18,5 +18,8 @@ This chatbot has a friendly, informative, and easy-to-understand personality. It
 -  Features:  
 Answers common cybersecurity questions  
 Provides best practices for staying safe online  
-Helps users recognize phishing scams and password risks  
+Helps users recognize phishing scams and password risks
+
+## AI Statment
+AI was used in the making of the assigment, including formating the chatbot.
 
