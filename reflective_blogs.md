@@ -165,7 +165,7 @@ Tutorials are a tool for the knowledgeable to learn something practical. This tu
 ## AI statment
 This assignment was created without the use of AI, this is a work of my own.
 
-# Reflective Blog 4
+# Reflective Blog 5
 Prompt R: After you have completed the Chatbot assignment or any assignment using AI for most of the work, reflect on your interaction with this emerging technology: What does AI do well? What does it not do well? What did you have to correct or re-prompt it to modify? What can you know about its training data? What kinds of data was included? What kinds of data was excluded? What do you think the future holds as this technology is used and further advanced?
 
 
