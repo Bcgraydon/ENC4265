@@ -14,6 +14,8 @@
 2. [Quick Start Guide](#quick-start-guide)
 3. [Reflective Blog 3](#reflective-blog-3)
 4. [Reflective Blog 4](#reflective-blog-4)
+5. [Reflective Blog 5](#reflective-blog-5)
+  
    
 # Wayback Analysis
 ## Introduction
@@ -162,3 +164,14 @@ Tutorials are a tool for the knowledgeable to learn something practical. This tu
 
 ## AI statment
 This assignment was created without the use of AI, this is a work of my own.
+
+# Reflective Blog 4
+Prompt R: After you have completed the Chatbot assignment or any assignment using AI for most of the work, reflect on your interaction with this emerging technology: What does AI do well? What does it not do well? What did you have to correct or re-prompt it to modify? What can you know about its training data? What kinds of data was included? What kinds of data was excluded? What do you think the future holds as this technology is used and further advanced?
+
+
+## My experince with AI
+AI is the newest mainstream technology on the market. As a student of technology, I’ve been intrigued by it, now it’s a tool I use daily, mostly with OpenAI’s learning model that has robust training data. When you start to use AI it’s important to learn its limitations, AI is very good at giving you quick knowledge, but if you’re uneducated on the subject your asking it you won’t catch that it gets things wrong. I’ve used AI many times to research things I already know, or to study a subject I’m learning in class, and I end up having to correct it. Correcting learning models is just where we are in their development, and I’m honestly impressed with the capabilities of the AI we have now, I foresee the growth of AI being something that will be involved in every market, just like the internet. 
+
+## AI statment
+Even though the subect of this assignment is AI, no AI was used in the creation of it
+
