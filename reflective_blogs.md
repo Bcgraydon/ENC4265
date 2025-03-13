@@ -15,6 +15,7 @@
 3. [Reflective Blog 3](#reflective-blog-3)
 4. [Reflective Blog 4](#reflective-blog-4)
 5. [Reflective Blog 5](#reflective-blog-5)
+6. [Reflective Blog 6](#reflective-blog-6)
   
    
 # Wayback Analysis
@@ -174,4 +175,13 @@ AI is the newest mainstream technology on the market. As a student of technology
 
 ## AI statment
 Even though the subect of this assignment is AI, no AI was used in the creation of it
+
+# Reflective Blog 6
+Prompt F: Reflect on one of your completed Deliverables for this course. What was easy for you? What was more difficult? Why? What did completing this assignment teach you about yourself and technical communication? What would you do differently based on the instructor's feedback? Note: this one is vintage only, but you can use AI tools for editing.
+
+## Refelction on a assignment
+The Deliverable I want to reflect on is the chatbot assignment, the last deliverable I completed. The assignment was rather easy because the website has AI tools to help you set your chatbot. The difficulty for me was deciding what platforms I wanted to use to host my chatbot, I went through three websites before I chose the final one, I ended up using. This assignment taught me how easy it is to set up a chatbot, making it a necessity if I ever develop a webpage in the future. I wouldn’t change the assignment after receiving the instructor’s feedback, I might spend more time on it to iron out some edges, but I wouldn’t make any big changes.
+
+## AI statment
+AI was only used for editing.
 
