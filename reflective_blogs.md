@@ -196,27 +196,33 @@ For this assignment I decided to use the past assignment Manual Assessment Memo.
 I want you to create a memo with this manual. https://www.dell.com/support/manuals/en-us/g-series-15-5520-laptop/dell-g15-5520-service-manual/Dell-G15-5520-Service-Manual?guid=guid-dd3ae169-a824-4f1d-832e-585b176f6faf&lang=en-us . The memo will follow proper memo format and etiquette. In this scenario You are a lower-level employee at a company who has been asked to evaluate the company's manual for this one specific product. You need to report your assessment to the CEO of the company (or someone much higher ranking than you) in a professional, emotionally-intelligent way. You don't want to say it's perfect, because they asked you to improve it. But you don't want to say it's terrible, either--someone you work with wrote it! The intended audience is, CEO or other high-level executive at the company that produced the manual. This person is busy and just wants your assessment of the manual at a glance. Your formatting should be easy to skim and be able to be read and understood quickly.
 
 ## Results
-MEMORANDUM
-TO: Dell Technologies Executive Team
-FROM: [Your Name]
-SUBJECT: Evaluation of Dell G15 5520 Service Manual
-DATE: March 27, 2025
-This memo provides an evaluation of the Dell G15 5520 Service Manual. The assessment is based on usability, clarity, and completeness, with the goal of improving the manual's overall effectiveness.
-Strengths
-•	Clear Step-by-Step Instructions: Procedures are sequential and logically ordered, which supports user comprehension.
-•	High-Quality Visuals: Diagrams and images are sharp, correctly labeled, and help users visually confirm hardware positioning and removal.
-•	Consistent Formatting: Standardized section layout across all hardware components aids quick reference and navigation.
-•	Safety Warnings: Proper use of ESD cautions and hazard notes enhances operational safety and equipment care.
+MEMORANDUM <br /> 
+TO: Dell Technologies Executive Team <br /> 
+FROM: [Your Name] <br /> 
+SUBJECT: Evaluation of Dell G15 5520 Service Manual <br /> 
+DATE: March 27, 2025 <br /> 
+This memo provides an evaluation of the Dell G15 5520 Service Manual. The assessment is based on usability, clarity, and completeness, with the goal of improving the manual's overall effectiveness. <br /> 
+<br /> 
+Strengths <br /> 
+-	Clear Step-by-Step Instructions: Procedures are sequential and logically ordered, which supports user comprehension.<br /> 
+-	High-Quality Visuals: Diagrams and images are sharp, correctly labeled, and help users visually confirm hardware positioning and removal.<br /> 
+-	Consistent Formatting: Standardized section layout across all hardware components aids quick reference and navigation.<br /> 
+-	Safety Warnings: Proper use of ESD cautions and hazard notes enhances operational safety and equipment care.<br /> 
 Areas for Improvement
-•	Tool Specifications: The manual lists when tools are required but does not specify the exact type or size. Including this would improve preparedness and reduce trial and error.
-•	Glossary or Terminology Help: Technical terms like "DC-in connector" or "I/O board" are not defined. Including a glossary would benefit novice technicians or students.
-•	Troubleshooting Support: The manual focuses on removal and installation but lacks guidance for diagnosing issues or verifying successful repair.
-•	Paragraph Density: Some sections (e.g., system board removal) use dense blocks of text. These could be broken into bullet points or numbered sub-steps to improve readability.
-Recommendations
-•	Add a tools list, including type and size, at the start of each procedure.
-•	Include a glossary of hardware terms to aid less experienced users.
-•	Introduce a troubleshooting appendix or basic diagnostic flowchart.
-•	Refactor long paragraphs into clearer, more digestible steps.
+-	Tool Specifications: The manual lists when tools are required but does not specify the exact type or size. Including this would improve preparedness and reduce trial and error.<br /> 
+-	Glossary or Terminology Help: Technical terms like "DC-in connector" or "I/O board" are not defined. Including a glossary would benefit novice technicians or students.<br /> 
+-	Troubleshooting Support: The manual focuses on removal and installation but lacks guidance for diagnosing issues or verifying successful repair.<br /> 
+-	Paragraph Density: Some sections (e.g., system board removal) use dense blocks of text. These could be broken into bullet points or numbered sub-steps to improve readability. <br />
+
+Recommendations <br /> 
+-	Add a tools list, including type and size, at the start of each procedure.<br /> 
+-	Include a glossary of hardware terms to aid less experienced users.<br /> 
+-	Introduce a troubleshooting appendix or basic diagnostic flowchart.<br /> 
+-	Refactor long paragraphs into clearer, more digestible steps.<br /> 
 
 ## Analysis
 The software did a great job of executing the prompt given too it. For this assignment it was perfect, the software is great at analyzing text for objective reasons allowing it to come up with reasonable suggestions for this manual. For weaknesses the generated text is overly generic and lacks a personal touch, this isn’t a huge issue for this assignment because of the nature of memos but the software still lacks in this area.   
+
+
+## AI statment
+AI was used for the purposes as stated in the prompt, and for editing.
