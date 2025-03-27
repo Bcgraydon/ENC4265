@@ -16,6 +16,7 @@
 4. [Reflective Blog 4](#reflective-blog-4)
 5. [Reflective Blog 5](#reflective-blog-5)
 6. [Reflective Blog 6](#reflective-blog-6)
+7. [Reflective Blog 7](#reflective-blog-7)
   
    
 # Wayback Analysis
@@ -185,3 +186,37 @@ The Deliverable I want to reflect on is the chatbot assignment, the last deliver
 ## AI statment
 AI was only used for editing.
 
+# Reflective Blog 7
+Prompt K: Use any generative AI to generate an assignment (or some other piece of writing) that you have already completed. Share the prompt you used, the results you received, and a brief analysis of the strengths and weaknesses of the software.
+
+## Introduction
+For this assignment I decided to use the past assignment Manual Assessment Memo. The AI software I decided to use was ChatGPT’s 4o model. For the prompt I used certain word to unsure that the software didn’t get confused. I also used bits of the original assignment prompt to ensure it was exactly that I wanted.
+
+## Prompt
+I want you to create a memo with this manual. https://www.dell.com/support/manuals/en-us/g-series-15-5520-laptop/dell-g15-5520-service-manual/Dell-G15-5520-Service-Manual?guid=guid-dd3ae169-a824-4f1d-832e-585b176f6faf&lang=en-us . The memo will follow proper memo format and etiquette. In this scenario You are a lower-level employee at a company who has been asked to evaluate the company's manual for this one specific product. You need to report your assessment to the CEO of the company (or someone much higher ranking than you) in a professional, emotionally-intelligent way. You don't want to say it's perfect, because they asked you to improve it. But you don't want to say it's terrible, either--someone you work with wrote it! The intended audience is, CEO or other high-level executive at the company that produced the manual. This person is busy and just wants your assessment of the manual at a glance. Your formatting should be easy to skim and be able to be read and understood quickly.
+
+## Results
+MEMORANDUM
+TO: Dell Technologies Executive Team
+FROM: [Your Name]
+SUBJECT: Evaluation of Dell G15 5520 Service Manual
+DATE: March 27, 2025
+This memo provides an evaluation of the Dell G15 5520 Service Manual. The assessment is based on usability, clarity, and completeness, with the goal of improving the manual's overall effectiveness.
+Strengths
+•	Clear Step-by-Step Instructions: Procedures are sequential and logically ordered, which supports user comprehension.
+•	High-Quality Visuals: Diagrams and images are sharp, correctly labeled, and help users visually confirm hardware positioning and removal.
+•	Consistent Formatting: Standardized section layout across all hardware components aids quick reference and navigation.
+•	Safety Warnings: Proper use of ESD cautions and hazard notes enhances operational safety and equipment care.
+Areas for Improvement
+•	Tool Specifications: The manual lists when tools are required but does not specify the exact type or size. Including this would improve preparedness and reduce trial and error.
+•	Glossary or Terminology Help: Technical terms like "DC-in connector" or "I/O board" are not defined. Including a glossary would benefit novice technicians or students.
+•	Troubleshooting Support: The manual focuses on removal and installation but lacks guidance for diagnosing issues or verifying successful repair.
+•	Paragraph Density: Some sections (e.g., system board removal) use dense blocks of text. These could be broken into bullet points or numbered sub-steps to improve readability.
+Recommendations
+•	Add a tools list, including type and size, at the start of each procedure.
+•	Include a glossary of hardware terms to aid less experienced users.
+•	Introduce a troubleshooting appendix or basic diagnostic flowchart.
+•	Refactor long paragraphs into clearer, more digestible steps.
+
+## Analysis
+The software did a great job of executing the prompt given too it. For this assignment it was perfect, the software is great at analyzing text for objective reasons allowing it to come up with reasonable suggestions for this manual. For weaknesses the generated text is overly generic and lacks a personal touch, this isn’t a huge issue for this assignment because of the nature of memos but the software still lacks in this area.   
