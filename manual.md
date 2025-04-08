@@ -324,9 +324,8 @@ Yes. As your skills grow, you can add Windows Server, Active Directory, Linux se
 ## AI Statement
 This manual was written by Benjamin Graydon for ENC 4265 using a combination of personal experience and digital assistance. The following tools were used during the creation process:
 
-- **Grammarly**: for grammar and spelling suggestions.
 - **Spellcheck**: built into Google Docs and Microsoft Word.
-- **ChatGPT (via BoodleBox)**: used to help organize structure, rephrase explanations, and generate sample command syntax.
+- **ChatGPT**: used to help organize structure, rephrase explanations, and generate sample command syntax.
 
 All final content, instructions, formatting, screenshots, and testing were reviewed and authored by the student. AI suggestions were treated as writing support, similar to using a tutor or editor, and not as a replacement for original work.
 
