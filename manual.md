@@ -1,10 +1,9 @@
+[Home](index.md) | [Manual Assessment Memo](manual_assessment_memo.md) | [Chatbot](chatbot.md) | [Procedure Video](procedure_video.md) | [Manual](manual.md) | [Reflective Blogs](reflective_blogs.md)
 # Building a Home Cybersecurity Lab for Learning and Testing
-
-## Title Page
-**Building a Home Cybersecurity Lab for Learning and Testing**  
+ 
 *By Benjamin Graydon*  
 *ENC 4265 - Spring 2025*  
-*April 6, 2025*  
+*April 2025*  
 
 ---
 
