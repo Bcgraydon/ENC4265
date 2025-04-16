@@ -44,7 +44,7 @@ This manual uses Markdown to document each step and provide hyperlinks, images, 
 
 <img src="https://johnkeen.tech/wp-content/uploads/2021/11/IMG_9841-Large.jpeg" alt="Home Network Diagram" width="400" />
 
-<p style="text-align: center;"><em>Figure 4: Home Network Diagram, source: John Keen Tech</em></p>![vb](https://github.com/user-attachments/assets/b11e228b-839e-40bf-a098-08cd555e627b)
+<p style="text-align: center;"><em>Figure 1: Home Network Diagram, source: John Keen Tech</em></p>
 
 
 ---
@@ -186,9 +186,10 @@ Virtual machines (VMs) allow you to simulate multiple computers on one system. T
 ### Using VirtualBox
 1. Download and install [VirtualBox](https://www.virtualbox.org/) on your host machine.
 
-   <img src="images/your-image-file.png" alt="Description of the image" width="400" />
+<img src="https://github.com/user-attachments/assets/9d534fbf-0046-4027-837e-55ca49b8eb2f" alt="vb" width="400" />
 
-*Figure X: Description of the image*
+<p style="text-align: center;"><em>Figure 2: VirtualBox download page, captured by Benjamin Graydon</em></p>
+
 3. Launch VirtualBox and click **New** to create a new virtual machine.
 4. Name the VM (e.g., `KaliLinux`), select **Linux** as the type, and choose the appropriate version (e.g., **Debian (64-bit)**).
 5. Allocate RAM (2GB minimum for Kali, more if you can).
