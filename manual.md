@@ -69,23 +69,35 @@ You don’t need expensive gear to start a home network lab. Many setups can be 
 ###  Basic Essentials:
 - **Computer with at least 16GB RAM** – Needed to run multiple virtual machines smoothly
 
-  [16 Gb Ram Kit](https://www.amazon.com/NVTEK-DDR3-1600-PC3-12800-Non-ECC-Desktop/dp/B0939P6L74/ref=sr_1_1_sspa?crid=1QK57TJXRL9VI&dib=eyJ2IjoiMSJ9.Y5399RiXuQi6-L48o49OO7K7Yf9p4pyeOBkeaqtXlV4nlXNmDR0quZn1galwE5Ra31i-9ccpuKOT2Gj3O3RfNyPE16qF_aZdYN0jJW7b703VkaMbRb9KxwBVNl2cTmbcwnFOCtUfmtGYpRghHi3LQ7rh5MuB6X_uVyX6MmpR-FFi9an-7gsJwJZN32k1xNVX5bZ9wBfrI9LUwqDyFx1ezDwkyjGYNuHq6lPXvRCl1bM.MA8mkTn2odhRsKhrN_NMBB0oQoBho-Z32wA7b0vvrKU&dib_tag=se&keywords=16%2Bgb%2Bram&qid=1744830820&sprefix=16%2Bgb%2Bram%2B%2Caps%2C147&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
+  [16 Gb Ram Kit from Amazon](https://www.amazon.com/NVTEK-DDR3-1600-PC3-12800-Non-ECC-Desktop/dp/B0939P6L74/ref=sr_1_1_sspa?crid=1QK57TJXRL9VI&dib=eyJ2IjoiMSJ9.Y5399RiXuQi6-L48o49OO7K7Yf9p4pyeOBkeaqtXlV4nlXNmDR0quZn1galwE5Ra31i-9ccpuKOT2Gj3O3RfNyPE16qF_aZdYN0jJW7b703VkaMbRb9KxwBVNl2cTmbcwnFOCtUfmtGYpRghHi3LQ7rh5MuB6X_uVyX6MmpR-FFi9an-7gsJwJZN32k1xNVX5bZ9wBfrI9LUwqDyFx1ezDwkyjGYNuHq6lPXvRCl1bM.MA8mkTn2odhRsKhrN_NMBB0oQoBho-Z32wA7b0vvrKU&dib_tag=se&keywords=16%2Bgb%2Bram&qid=1744830820&sprefix=16%2Bgb%2Bram%2B%2Caps%2C147&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
 - **Virtualization software** – VirtualBox (free), VMware Workstation Player (free for personal use)
 
-  [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+  [VirtualBox download](https://www.virtualbox.org/wiki/Downloads)
 - **Operating system ISOs** – e.g., Kali Linux, Ubuntu Server, Metasploitable
+
+  [Kali Linux download](https://www.kali.org/get-kali/#kali-virtual-machines)
 - **Reliable Internet connection** – To download tools and updates
 
 ###  Optional Hardware:
 - **Router** – A spare router can be used to isolate lab traffic
+
+ [Cheap Router from Amazon](https://www.amazon.com/Setup-Wireless-Wi-Fi-Router-Internet/dp/B0CGLWPS5T/ref=sr_1_5_sspa?crid=2RX72K0QR6JNQ&dib=eyJ2IjoiMSJ9.9Gj47GvQNSWzSMKR6iOj0K_2_2RYryvTTOC5_iVIgZkjyVdNCfbsRv1yAY2q_m40QZ4wrXRvB1KXJqG0dYAejgoq1gElym8xNiWrGFpSXwC1Bv_WiVZHpBwCX9SbM-kTB05s1GHXOz5t8pdmWQHSI5WCKc8UamL1Kck9ssk0wZx4IVhNYK_hTf4Ii0IfPOHxLVIgH8o6kJfiTCh9SH6xBEpiZoEjArsRioUgALHRWjAdLXsfI5tqCFESJf7wy_yi-gGFeLVguUrx4Hm44sWxCxYZePjHZQFbSWd-jWUF4cA.20aJZO1O8gtcI9eb7Q0wawN7Wt233kIQ9gw3I41ZdDc&dib_tag=se&keywords=router&qid=1744831132&sprefix=router%2Caps%2C177&sr=8-5-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
 - **Network Switch** – Useful for connecting multiple physical devices
+
+  [Cheap Network Switch from Amazon](https://www.amazon.com/Ethernet-Splitter-Optimization-Unmanaged-TL-SG105/dp/B00A128S24/ref=sr_1_1_sspa?crid=1N2SS7UQ7LNI4&dib=eyJ2IjoiMSJ9.zm2b2eGNCSReGFJuUskv6-s3cUVDK12lfqOmf729JjyTNQU9BmcYqPH1zR4W3AI6ChBAyGCpu30nmqgic4jJuBGtHXoCZQLvHTgZ_5qT-uBUG_33GNm_3yFGeYde_4HlhyUXH8aZgcpUuhnPuWYG1AEVzOHe3AAudKFuLIMAX7ctOgDeRQLhYION8KlcyEVWC74o2Wd20fuBfCqcqpoIjkFoXWaG3mfgo1UivOD-HlE.rb__vW4ED-Kroc7rGJLbRJ5LLrQDSjZbkWeXLKHWWWU&dib_tag=se&keywords=network%2Bswitch&qid=1744831306&sprefix=network%2Caps%2C187&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
 - **Raspberry Pi or spare laptops** – Acts as servers, DNS, firewall, or targets for testing
 - **Old PCs or thin clients** – Can be repurposed as part of your lab
 
 ###  Optional Accessories:
 - **USB Wi-Fi adapters** – Useful for wireless testing
+
+  [Wifi Adapter from Amazon](https://www.amazon.com/Wireless-USB-WiFi-Adapter-PC/dp/B07J65G9DD/ref=sr_1_2_sspa?crid=21EBSIXE6MFAD&dib=eyJ2IjoiMSJ9.Cpk9qEaP8FCv_AaXO1XwmXpIoTCueAWMOH9NU-eckUNzNQSjESW-nxtYQ2k9bV6KxLY2pS-Qlx1IaueKfqJeDo6HNljx4IMpkxJCEFGu1NH0cJoaObhq1wA4zkDMRxwPQdGKq5YSUK3bkUAQgSkuljdj23pxcclKVk5y1qdSIa_uyRMnFgYE1jZCKsofplxwBX89PK8ggUnbZpPJP60zN3pDEtuX5__BjhJs7-CFing.izt67dJQ4Nr-O9gOlKW9F5kylerKp675n4YNt74o0Ao&dib_tag=se&keywords=USB+Wi-Fi+adapters&qid=1744831489&sprefix=usb+wi-fi+adapters%2Caps%2C150&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 - **Ethernet cables** – If building a physical network
+
+  [10ft Cable from Amazon](https://www.amazon.com/Amazon-Basics-Ethernet-High-Speed-Snagless/dp/B089MGNQXF/ref=sr_1_7_ffob_sspa?crid=2O6K89ND7NRRU&dib=eyJ2IjoiMSJ9.Qrm0YFmTEww5DZc4mrTYoNn-bpwOCt5sbXP4W_xXulJeleuZV9enl7iyOHP0WcLRfWhJuEzjU7oi2FCDedZABFqAHa339Gg-g4DOhL1qEnXixPxTk5bnl4-IU1dF6zuERHHddE4z1LHZGYQkjNH9XbuIuJFJeuQYNstgR9UXimdgFpna17cBNFCcd5GKl8qS4fCQCinIPKZriU93rzqGfRMjUOQox1wA2KX222VTbHc.fLKhT7-JGYbPe60uX5mDRtJGLxGHkV9Qyiz2HljiSes&dib_tag=se&keywords=ethernet%2Bcable&qid=1744831696&sprefix=ethernet%2B%2Caps%2C162&sr=8-7-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1)
 - **KVM switch** – If using multiple machines with one monitor/keyboard/mouse
+
+  [KVM switch from Amazon](https://www.amazon.com/Switcher-Computers-Keyboard-Selector-Compatible/dp/B0CHY8L11W/ref=sr_1_1_sspa?crid=8499PZ40WD7X&dib=eyJ2IjoiMSJ9.gAOq7cNdIDPvIcj3wSUTdTLnAg8joLb2VUA4MDFRWGuwo8XFMo8ZXLMUAZoAzoZG0mJ1C86VlAYTuTD2_NKroWz3pBsMxVd-kva3__RSr-4C7OQXGdGHpSM2CyskfioGs_aqEgydqG4HXBZ36EE2DkDvGr-ONx347L-Cul74Xf8ZZv0WEOll1IA2I9691udKVA_Lq0jfDIt4BX64oCd97yNyHArq_ZHHJMvdNudBn-w.urDZlE7_Nhu8vTtF7P2_A2OucLRivK0OMBp87UsXjsM&dib_tag=se&keywords=kvm+switch&qid=1744831816&sprefix=kvm+%2Caps%2C151&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 
 Start small with virtual machines and scale up to hardware as your interests grow. The next section will help you understand the networking basics you'll apply to your lab.
 
