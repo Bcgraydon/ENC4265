@@ -68,7 +68,11 @@ You don’t need expensive gear to start a home network lab. Many setups can be 
 
 ###  Basic Essentials:
 - **Computer with at least 16GB RAM** – Needed to run multiple virtual machines smoothly
+
+  [16 Gb Ram Kit](https://www.amazon.com/NVTEK-DDR3-1600-PC3-12800-Non-ECC-Desktop/dp/B0939P6L74/ref=sr_1_1_sspa?crid=1QK57TJXRL9VI&dib=eyJ2IjoiMSJ9.Y5399RiXuQi6-L48o49OO7K7Yf9p4pyeOBkeaqtXlV4nlXNmDR0quZn1galwE5Ra31i-9ccpuKOT2Gj3O3RfNyPE16qF_aZdYN0jJW7b703VkaMbRb9KxwBVNl2cTmbcwnFOCtUfmtGYpRghHi3LQ7rh5MuB6X_uVyX6MmpR-FFi9an-7gsJwJZN32k1xNVX5bZ9wBfrI9LUwqDyFx1ezDwkyjGYNuHq6lPXvRCl1bM.MA8mkTn2odhRsKhrN_NMBB0oQoBho-Z32wA7b0vvrKU&dib_tag=se&keywords=16%2Bgb%2Bram&qid=1744830820&sprefix=16%2Bgb%2Bram%2B%2Caps%2C147&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
 - **Virtualization software** – VirtualBox (free), VMware Workstation Player (free for personal use)
+
+  [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 - **Operating system ISOs** – e.g., Kali Linux, Ubuntu Server, Metasploitable
 - **Reliable Internet connection** – To download tools and updates
 
