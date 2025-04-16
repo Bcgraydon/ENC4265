@@ -41,6 +41,12 @@ Unlike commercial networks, your home lab is a safe, sandboxed environment where
 
 This manual uses Markdown to document each step and provide hyperlinks, images, and explanations for both the "how" and the "why" behind every task.
 
+
+<img src="https://johnkeen.tech/wp-content/uploads/2021/11/IMG_9841-Large.jpeg" alt="Home Network Diagram" width="400" />
+
+<p style="text-align: center;"><em>Figure 4: Home Network Diagram, source: John Keen Tech</em></p>![vb](https://github.com/user-attachments/assets/b11e228b-839e-40bf-a098-08cd555e627b)
+
+
 ---
 
 ## What is a Home Network Lab?
@@ -179,12 +185,16 @@ Virtual machines (VMs) allow you to simulate multiple computers on one system. T
 
 ### Using VirtualBox
 1. Download and install [VirtualBox](https://www.virtualbox.org/) on your host machine.
-2. Launch VirtualBox and click **New** to create a new virtual machine.
-3. Name the VM (e.g., `KaliLinux`), select **Linux** as the type, and choose the appropriate version (e.g., **Debian (64-bit)**).
-4. Allocate RAM (2GB minimum for Kali, more if you can).
-5. Create a virtual hard disk (VDI), at least 20GB in size.
-6. Once created, click **Settings > Storage**, and mount your ISO under the optical drive.
-7. Start the VM and follow the OS installation steps.
+
+   <img src="images/your-image-file.png" alt="Description of the image" width="400" />
+
+*Figure X: Description of the image*
+3. Launch VirtualBox and click **New** to create a new virtual machine.
+4. Name the VM (e.g., `KaliLinux`), select **Linux** as the type, and choose the appropriate version (e.g., **Debian (64-bit)**).
+5. Allocate RAM (2GB minimum for Kali, more if you can).
+6. Create a virtual hard disk (VDI), at least 20GB in size.
+7. Once created, click **Settings > Storage**, and mount your ISO under the optical drive.
+8. Start the VM and follow the OS installation steps.
 
 Once installed, take a snapshot of your VM so you can roll back changes after testing.
 
