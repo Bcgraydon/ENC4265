@@ -208,12 +208,17 @@ Kali Linux is a Debian-based Linux distribution used by cybersecurity profession
 
 ### Steps to Install Kali Linux in VirtualBox
 1. Download the ISO from the official site: [https://www.kali.org/get-kali/](https://www.kali.org/get-kali/)
-2. Open VirtualBox and click **New**.
-3. Name the VM `KaliLinux`, set the type to **Linux**, and version to **Debian (64-bit)**.
-4. Assign at least 2GB of RAM (more if your system allows).
-5. Create a virtual hard disk, VDI type, dynamically allocated, at least 20GB.
-6. Mount the Kali ISO by going to **Settings > Storage**, clicking on the disk icon next to Optical Drive, and selecting the ISO.
-7. Start the VM and follow the Kali installation steps:
+
+   <img src="https://github.com/user-attachments/assets/ebed805d-7b51-402e-83f3-845851044d31" alt="kali" width="400" />
+
+<p style="text-align: center;"><em>Figure 3: Kali Linux download, captured by Benjamin Graydon</em></p>
+
+3. Open VirtualBox and click **New**.
+4. Name the VM `KaliLinux`, set the type to **Linux**, and version to **Debian (64-bit)**.
+5. Assign at least 2GB of RAM (more if your system allows).
+6. Create a virtual hard disk, VDI type, dynamically allocated, at least 20GB.
+7. Mount the Kali ISO by going to **Settings > Storage**, clicking on the disk icon next to Optical Drive, and selecting the ISO.
+8. Start the VM and follow the Kali installation steps:
    - Choose **Graphical Install**
    - Set hostname (e.g., `kali-lab`)
    - Create a user and set a strong password
