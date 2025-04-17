@@ -242,11 +242,17 @@ Metasploitable is a vulnerable Linux-based virtual machine used to practice pene
 ### Steps to Install Metasploitable in VirtualBox
 1. Download the Metasploitable VM as a preconfigured VirtualBox appliance (OVA):  
    [https://sourceforge.net/projects/metasploitable/](https://sourceforge.net/projects/metasploitable/)
-2. In VirtualBox, go to **File > Import Appliance**.
-3. Select the downloaded `.ova` file and click **Next**.
-4. Accept default settings or adjust RAM/CPU settings as needed.
-5. Click **Import** to add Metasploitable to your VM list.
-6. Start the VM. It will boot to a login screen.
+
+   <img src="https://github.com/user-attachments/assets/3502b775-aef8-4702-a680-dbd00cab2d82" alt="Meta" width="400" />
+
+   <p style="text-align: center;"><em>Figure 4: Metasploitable download, captured by Benjamin Graydon</em></p>
+
+
+3. In VirtualBox, go to **File > Import Appliance**.
+4. Select the downloaded `.ova` file and click **Next**.
+5. Accept default settings or adjust RAM/CPU settings as needed.
+6. Click **Import** to add Metasploitable to your VM list.
+7. Start the VM. It will boot to a login screen.
 
 ### Default Credentials
 - Username: `msfadmin`
