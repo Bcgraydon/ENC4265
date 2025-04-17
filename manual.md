@@ -42,7 +42,7 @@ Unlike commercial networks, your home lab is a safe, sandboxed environment where
 This manual uses Markdown to document each step and provide hyperlinks, images, and explanations for both the "how" and the "why" behind every task.
 
 
-<img src="https://johnkeen.tech/wp-content/uploads/2021/11/IMG_9841-Large.jpeg" alt="Home Network Diagram" width="400" />
+> <img src="https://johnkeen.tech/wp-content/uploads/2021/11/IMG_9841-Large.jpeg" alt="Home Network Diagram" width="400" />
 
 <p style="text-align: center;"><em>Figure 1: Home Network Diagram, source: John Keen Tech</em></p>
 
@@ -186,7 +186,7 @@ Virtual machines (VMs) allow you to simulate multiple computers on one system. T
 ### Using VirtualBox
 1. Download and install [VirtualBox](https://www.virtualbox.org/) on your host machine.
 
-<img src="https://github.com/user-attachments/assets/9d534fbf-0046-4027-837e-55ca49b8eb2f" alt="vb" width="400" />
+> <img src="https://github.com/user-attachments/assets/9d534fbf-0046-4027-837e-55ca49b8eb2f" alt="vb" width="400" />
 
 <p style="text-align: center;"><em>Figure 2: VirtualBox download page, captured by Benjamin Graydon</em></p>
 
@@ -209,7 +209,7 @@ Kali Linux is a Debian-based Linux distribution used by cybersecurity profession
 ### Steps to Install Kali Linux in VirtualBox
 1. Download the ISO from the official site: [https://www.kali.org/get-kali/](https://www.kali.org/get-kali/)
 
-   <img src="https://github.com/user-attachments/assets/ebed805d-7b51-402e-83f3-845851044d31" alt="kali" width="400" />
+  > <img src="https://github.com/user-attachments/assets/ebed805d-7b51-402e-83f3-845851044d31" alt="kali" width="400" />
 
 <p style="text-align: center;"><em>Figure 3: Kali Linux download, captured by Benjamin Graydon</em></p>
 
@@ -243,7 +243,7 @@ Metasploitable is a vulnerable Linux-based virtual machine used to practice pene
 1. Download the Metasploitable VM as a preconfigured VirtualBox appliance (OVA):  
    [https://sourceforge.net/projects/metasploitable/](https://sourceforge.net/projects/metasploitable/)
 
-   <img src="https://github.com/user-attachments/assets/3502b775-aef8-4702-a680-dbd00cab2d82" alt="Meta" width="400" />
+  > <img src="https://github.com/user-attachments/assets/3502b775-aef8-4702-a680-dbd00cab2d82" alt="Meta" width="400" />
 
    <p style="text-align: center;"><em>Figure 4: Metasploitable download, captured by Benjamin Graydon</em></p>
 
@@ -307,33 +307,40 @@ nmap -p- 192.168.56.102        # Scan all 65535 ports on a host
 When working with a home cybersecurity lab, you might encounter a few common problems. Here are solutions to typical issues you may face when setting up or using your environment.
 
 ### Virtual Machine Won’t Start
-- Make sure virtualization is enabled in your system BIOS.
-- Close any other programs using virtualization (e.g., Docker, VMware).
+**If your VM doesn't boot, crashes on launch, or never leaves a black screen.**
+- Make sure virtualization is enabled in your system BIOS.  
+- Close any other programs using virtualization (e.g., Docker, VMware).  
 - Check RAM allocation; don’t exceed your system’s total memory.
 
 ### Devices Can’t Ping Each Other
-- Ensure both VMs are on the same virtual network (Host-Only or Internal).
-- Verify firewall settings on each VM.
+**If you try to `ping` another device and get "Destination Host Unreachable" or "Request Timed Out."**
+- Ensure both VMs are on the same virtual network (Host-Only or Internal).  
+- Verify firewall settings on each VM.  
 - Double check IP addresses and subnet masks.
 
 ### No Internet Connection in the Lab
-- If your VMs need internet, use a NAT adapter in VirtualBox.
+**If your VM can’t load websites or access online tools.**
+- If your VMs need internet, use a NAT adapter in VirtualBox.  
 - Alternatively, use a bridged adapter if you understand the risks.
 
 ### Kali Linux Is Laggy or Freezes
-- Increase the VM’s RAM and video memory.
+**If Kali responds slowly, lags when you move the mouse, or freezes entirely.**
+- Increase the VM’s RAM and video memory.  
 - Install Guest Additions for smoother graphics and input.
 
-### Metasploitable Doesn't Respond
-- Confirm the VM is running and logged in.
-- Run `ifconfig` to check the IP address.
+### Metasploitable Doesn’t Respond
+**If you can’t interact with Metasploitable or `ping` it from another machine.**
+- Confirm the VM is running and logged in.  
+- Run `ifconfig` to check the IP address.  
 - Ping from Kali to verify the connection.
 
 ### Wireshark Shows No Traffic
-- Make sure you selected the correct network interface.
+**If your packet capture shows zero results or no new data.**
+- Make sure you selected the correct network interface.  
 - Try restarting the capture or using a different filter.
 
-Use snapshots often and write down any fixes you discover. Troubleshooting is part of the learning process — and it’s good practice for real-world network administration.
+>  **Pro Tip:** Use snapshots often and write down any fixes you discover. Troubleshooting is part of the learning process — and it’s good practice for real-world network administration.
+
 
 ---
 
@@ -363,7 +370,7 @@ Yes. As your skills grow, you can add Windows Server, Active Directory, Linux se
 This manual was written by Benjamin Graydon for ENC 4265 using a combination of personal experience and digital assistance. The following tools were used during the creation process:
 
 - **Spellcheck**: built into Google Docs and Microsoft Word.
-- **ChatGPT**: used to help organize structure, rephrase explanations, and generate sample command syntax.
+- **ChatGPT model 4o**: used to help organize structure, rephrase explanations, and generate sample command syntax.
 
 All final content, instructions, formatting, screenshots, and testing were reviewed and authored by the student. AI suggestions were treated as writing support, similar to using a tutor or editor, and not as a replacement for original work.
 
@@ -372,13 +379,22 @@ The manual reflects personal effort, practical testing, and manual Markdown form
 ---
 
 ## Works Cited
-- Offensive Security. “Kali Linux.” https://www.kali.org/
-- Rapid7. “Metasploitable.” https://sourceforge.net/projects/metasploitable/
-- VirtualBox. “VirtualBox User Manual.” https://www.virtualbox.org/wiki/Documentation
-- Wireshark Foundation. “Wireshark.” https://www.wireshark.org/
-- Nmap.org. “Nmap Network Scanning.” https://nmap.org/book/
-- pfSense Documentation. https://docs.netgate.com/pfsense/en/latest/
-- OpenVAS. “Greenbone Vulnerability Management.” https://www.greenbone.net/en/
-- draw.io. https://app.diagrams.net/
+
+- Offensive Security. *Kali Linux*. https://www.kali.org/. Accessed 17 Apr. 2025.
+
+- Rapid7. *Metasploitable*. SourceForge, https://sourceforge.net/projects/metasploitable/. Accessed 17 Apr. 2025.
+
+- Oracle. *VirtualBox User Manual*. https://www.virtualbox.org/wiki/Documentation. Accessed 17 Apr. 2025.
+
+- Wireshark Foundation. *Wireshark*. https://www.wireshark.org/. Accessed 17 Apr. 2025.
+
+- Lyon, Gordon. *Nmap Network Scanning*. Nmap.org, https://nmap.org/book/. Accessed 17 Apr. 2025.
+
+- Netgate. *pfSense Documentation*. https://docs.netgate.com/pfsense/en/latest/. Accessed 17 Apr. 2025.
+
+- Greenbone Networks. *Greenbone Vulnerability Management (OpenVAS)*. https://www.greenbone.net/en/. Accessed 17 Apr. 2025.
+
+- JGraph. *draw.io*. https://app.diagrams.net/. Accessed 17 Apr. 2025.
+
 
 All images, tools, and software referenced in this manual are publicly available, used legally and ethically within a home test environment.
