@@ -378,23 +378,15 @@ The manual reflects personal effort, practical testing, and manual Markdown form
 
 ---
 
-## Works Cited
+## References
 
-- Offensive Security. *Kali Linux*. https://www.kali.org/. Accessed 17 Apr. 2025.
-
-- Rapid7. *Metasploitable*. SourceForge, https://sourceforge.net/projects/metasploitable/. Accessed 17 Apr. 2025.
-
-- Oracle. *VirtualBox User Manual*. https://www.virtualbox.org/wiki/Documentation. Accessed 17 Apr. 2025.
-
-- Wireshark Foundation. *Wireshark*. https://www.wireshark.org/. Accessed 17 Apr. 2025.
-
-- Lyon, Gordon. *Nmap Network Scanning*. Nmap.org, https://nmap.org/book/. Accessed 17 Apr. 2025.
-
-- Netgate. *pfSense Documentation*. https://docs.netgate.com/pfsense/en/latest/. Accessed 17 Apr. 2025.
-
-- Greenbone Networks. *Greenbone Vulnerability Management (OpenVAS)*. https://www.greenbone.net/en/. Accessed 17 Apr. 2025.
-
-- JGraph. *draw.io*. https://app.diagrams.net/. Accessed 17 Apr. 2025.
-
+- [draw.io](https://app.diagrams.net/)
+- [Nmap Network Scanning](https://nmap.org/book/)
+- [Kali Linux – Offensive Security](https://www.kali.org/)
+- [Greenbone Vulnerability Management – OpenVAS](https://www.greenbone.net/en/)
+- [pfSense Documentation – Netgate](https://docs.netgate.com/pfsense/en/latest/)
+- [Metasploitable – Rapid7 on SourceForge](https://sourceforge.net/projects/metasploitable/)
+- [VirtualBox User Manual – Oracle](https://www.virtualbox.org/wiki/Documentation)
+- [Wireshark – Wireshark Foundation](https://www.wireshark.org/)
 
 All images, tools, and software referenced in this manual are publicly available, used legally and ethically within a home test environment.
